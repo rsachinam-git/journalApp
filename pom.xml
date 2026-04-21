@@ -28,10 +28,10 @@
 	</scm>
 	<properties>
 		<java.version>1.8</java.version>
-		<sonar.projectKey>journal</sonar.projectKey>
-		<sonar.projectName>journalApp</sonar.projectName>
-		<sonar.host.url>http://localhost:9000</sonar.host.url>
-		<sonar.token>squ_d0eef571fb4844b438eb591d489ef5795fa30f63</sonar.token>
+<!--		<sonar.projectKey>journal</sonar.projectKey>-->
+<!--		<sonar.projectName>journalApp</sonar.projectName>-->
+<!--		<sonar.host.url>http://localhost:9000</sonar.host.url>-->
+<!--		<sonar.token>squ_d0eef571fb4844b438eb591d489ef5795fa30f63</sonar.token>-->
 		<sonar.organization>rsachinam-git</sonar.organization>
 	</properties>
 	<dependencies>
